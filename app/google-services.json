@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1003292425",
+    "firebase_url": "https://alctraveldeals.firebaseio.com",
+    "project_id": "alctraveldeals",
+    "storage_bucket": "alctraveldeals.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003292425:android:82f888c11a5a1e2f",
+        "android_client_info": {
+          "package_name": "andela.chiefscientist.com.alctraveldealschallenge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1003292425-7cng3kk2v1fl0m4uelpt9s02fbs1gp5s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "andela.chiefscientist.com.alctraveldealschallenge",
+            "certificate_hash": "3095bd8b5f210905fb620756831ba2e0637fc64c"
+          }
+        },
+        {
+          "client_id": "1003292425-tlla0ochb8qj63cf0nbq3h62oeatr9kr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASTzoVfzSH0e-_Rf_OtBZyP1aUdN2j8_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1003292425-tlla0ochb8qj63cf0nbq3h62oeatr9kr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

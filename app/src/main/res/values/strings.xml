@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ALCTravelDealsChallenge</string>
+    <string name="deal_title">Deal Title</string>
+    <string name="save_menu">Save</string>
+</resources>
